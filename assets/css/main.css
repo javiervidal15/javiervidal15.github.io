@@ -595,8 +595,8 @@ input, select, textarea {
 
 	.imagen-perfil{
 		border-radius: 50% !important;
-		height: 180px !important;
-		margin-right: 15px;
+		height: 170px !important;
+		margin-right: 10px;
 		border: 1px solid #FFF80d;
 	}
 
